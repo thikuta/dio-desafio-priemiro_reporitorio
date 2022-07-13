@@ -1,2 +1,2 @@
-# dio-desafio-priemiro_reporitorio
+# Repositorio do Desafio Git/GitHub da DIO
 Desafio Bootcamp Santander
